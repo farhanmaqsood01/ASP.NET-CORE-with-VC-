@@ -1,0 +1,109 @@
+﻿@{ 
+    Layout = "~/Views/Shared/_layout.cshtml";
+}
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+    <title>Chester Bernard</title>
+    <link rel="stylesheet" type="text/css" href="~/lib/twitter-bootstrap/css/bootstrap.min.css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <style>
+
+
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        input[type=text], select, textarea {
+            width: 100%;
+            padding: 12px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+            margin-top: 6px;
+            margin-bottom: 16px;
+            resize: vertical;
+        }
+
+        input[type=submit] {
+            background-color: mediumslateblue;
+            color: white;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+            input[type=submit]:hover {
+                background-color: #A52A2A;
+            }
+    </style>
+</head>
+<body>
+
+    <main>
+
+
+        <h3 class="display-4" style="text-align: center; padding: 25px;">Contact Us</h3>
+
+        <div class="container">
+
+            <form>
+                <label for="fname">First Name</label>
+                <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+                <label for="lname">Last Name</label>
+                <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+
+                <label for="city">City</label>
+                <select id="city" name="City">
+                    <option value="Karachi">Karachi</option>
+                    <option value="Islambad">Islambad</option>
+                    <option value="Lahore">Lahore</option>
+                    <option value="Quetta">Quetta</option>
+                    <option value="Peshawar">Peshawar</option>
+                    <option value="Multan">Multan</option>
+                </select>
+
+                <label for="subject">Subject</label>
+                <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+
+                <input type="submit" style="color:burlywood;" value="Submit">
+            </form>
+        </div>
+        <div class="row" style="padding-left: 180px; text-align:center">
+            <div class="col-md-10">
+                <h3 style="color:dimgrey; text-align:center; padding:25px">Company Since 2000</h3>
+                <p>
+                    Modern jeans began to appear in the 1920s, but sales were largely confined to the working people of the western United States, such as cowboys, lumberjacks, and railroad workers. Levi's jeans apparently were first introduced to the East during the dude ranch craze of the 1930s, when vacationing Easterners returned home with tales (and usually examples) of the hard-wearing pants with rivets. Another boost came in World War II when blue jeans were declared an essential commodity and were sold only to people engaged in defense work.
+
+                    Between the 1950s and 1980s, Levi's jeans became popular among a wide range of youth subcultures, including greasers, mods, rockers, and hippies. Levi's popular shrink-to-fit 501s were sold in a unique sizing arrangement; the indicated size referred to the size of the jeans prior to shrinking, and the shrinkage was substantial.[13] The company still produces these unshrunk, uniquely sized jeans. Although popular lore (abetted by company marketing) holds that the original design remains unaltered, this is not the case: the crotch rivet and waist cinch were removed during World War II to conform to War Production Board requirements to conserve metal and were not replaced after the war. Additionally, the back pocket rivets, which had been covered in denim since 1937, were removed completely in the 1950s due to complaints they scratched furniture.[14]
+                </p>
+            </div>
+        </div>
+
+
+
+
+
+
+    </main>
+
+
+
+    <script src="~/lib/jquery/jquery.min.js"></script>
+    <script src="~/lib/twitter-bootstrap/js/bootstrap.min.js"></script>
+</body>
+</html>

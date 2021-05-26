@@ -1,0 +1,35 @@
+C:\Users\dell\source\repos\ASP.Web Task\ASP.Web Task\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\dell\source\repos\ASP.Web Task\ASP.Web Task\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\dell\source\repos\ASP.Web Task\ASP.Web Task\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\dell\source\repos\ASP.Web Task\ASP.Web Task\bin\Debug\netcoreapp3.1\ASP.Web Task.exe
+C:\Users\dell\source\repos\ASP.Web Task\ASP.Web Task\bin\Debug\netcoreapp3.1\ASP.Web Task.deps.json
+C:\Users\dell\source\repos\ASP.Web Task\ASP.Web Task\bin\Debug\netcoreapp3.1\ASP.Web Task.runtimeconfig.json
+C:\Users\dell\source\repos\ASP.Web Task\ASP.Web Task\bin\Debug\netcoreapp3.1\ASP.Web Task.runtimeconfig.dev.json
+C:\Users\dell\source\repos\ASP.Web Task\ASP.Web Task\bin\Debug\netcoreapp3.1\ASP.Web Task.dll
+C:\Users\dell\source\repos\ASP.Web Task\ASP.Web Task\bin\Debug\netcoreapp3.1\ASP.Web Task.pdb
+C:\Users\dell\source\repos\ASP.Web Task\ASP.Web Task\bin\Debug\netcoreapp3.1\ASP.Web Task.Views.dll
+C:\Users\dell\source\repos\ASP.Web Task\ASP.Web Task\bin\Debug\netcoreapp3.1\ASP.Web Task.Views.pdb
+C:\Users\dell\source\repos\ASP.Web Task\ASP.Web Task\obj\Debug\netcoreapp3.1\ASP.Web Task.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\ASP.Web Task\ASP.Web Task\obj\Debug\netcoreapp3.1\ASP.Web Task.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\ASP.Web Task\ASP.Web Task\obj\Debug\netcoreapp3.1\ASP.Web Task.AssemblyInfo.cs
+C:\Users\dell\source\repos\ASP.Web Task\ASP.Web Task\obj\Debug\netcoreapp3.1\ASP.Web Task.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\ASP.Web Task\ASP.Web Task\obj\Debug\netcoreapp3.1\ASP.Web Task.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dell\source\repos\ASP.Web Task\ASP.Web Task\obj\Debug\netcoreapp3.1\ASP.Web Task.RazorAssemblyInfo.cache
+C:\Users\dell\source\repos\ASP.Web Task\ASP.Web Task\obj\Debug\netcoreapp3.1\ASP.Web Task.RazorAssemblyInfo.cs
+C:\Users\dell\source\repos\ASP.Web Task\ASP.Web Task\obj\Debug\netcoreapp3.1\staticwebassets\ASP.Web Task.StaticWebAssets.Manifest.cache
+C:\Users\dell\source\repos\ASP.Web Task\ASP.Web Task\obj\Debug\netcoreapp3.1\staticwebassets\ASP.Web Task.StaticWebAssets.xml
+C:\Users\dell\source\repos\ASP.Web Task\ASP.Web Task\obj\Debug\netcoreapp3.1\scopedcss\bundle\ASP.Web Task.styles.css
+C:\Users\dell\source\repos\ASP.Web Task\ASP.Web Task\obj\Debug\netcoreapp3.1\ASP.Web Task.TagHelpers.input.cache
+C:\Users\dell\source\repos\ASP.Web Task\ASP.Web Task\obj\Debug\netcoreapp3.1\ASP.Web Task.TagHelpers.output.cache
+C:\Users\dell\source\repos\ASP.Web Task\ASP.Web Task\obj\Debug\netcoreapp3.1\ASP.Web Task.RazorCoreGenerate.cache
+C:\Users\dell\source\repos\ASP.Web Task\ASP.Web Task\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\dell\source\repos\ASP.Web Task\ASP.Web Task\obj\Debug\netcoreapp3.1\ASP.Web Task.RazorTargetAssemblyInfo.cache
+C:\Users\dell\source\repos\ASP.Web Task\ASP.Web Task\obj\Debug\netcoreapp3.1\ASP.Web Task.RazorTargetAssemblyInfo.cs
+C:\Users\dell\source\repos\ASP.Web Task\ASP.Web Task\obj\Debug\netcoreapp3.1\ASP.Web Task.Views.pdb
+C:\Users\dell\source\repos\ASP.Web Task\ASP.Web Task\obj\Debug\netcoreapp3.1\ASP.Web Task.dll
+C:\Users\dell\source\repos\ASP.Web Task\ASP.Web Task\obj\Debug\netcoreapp3.1\ASP.Web Task.pdb
+C:\Users\dell\source\repos\ASP.Web Task\ASP.Web Task\obj\Debug\netcoreapp3.1\ASP.Web Task.genruntimeconfig.cache
+C:\Users\dell\source\repos\ASP.Web Task\ASP.Web Task\obj\Debug\netcoreapp3.1\ASP.Web Task.csproj.CopyComplete
+C:\Users\dell\source\repos\ASP.Web Task\ASP.Web Task\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\dell\source\repos\ASP.Web Task\ASP.Web Task\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\dell\source\repos\ASP.Web Task\ASP.Web Task\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
