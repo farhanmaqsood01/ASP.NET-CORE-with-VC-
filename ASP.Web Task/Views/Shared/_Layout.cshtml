@@ -12,7 +12,8 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-
+    
+    
     <style>
         * {
             margin: 0;
@@ -169,6 +170,7 @@
         .social-network a {
             background-color: #F9F9F9;
 
+
         }
 
     </style>
@@ -179,6 +181,7 @@
 </head>
 <body>
 
+    @addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
     <header>
         <h4>Chester Bernard</h4>
     </header>
@@ -186,9 +189,9 @@
     <nav>
 
         <ul>
-            <li><a href="#">Home |</a></li>
-            <li> <a href="home/about">About |</a></li>
-            <li><a href="home/contact">Contact</a></li>
+            <li><a asp-controller="Home" asp-action="index" asp-route-id="index"> Home |</a></li>
+            <li><a asp-controller="Home" asp-action="About" asp-route-id="About"> About |</a></li>
+            <li><a asp-controller="Home" asp-action="Contact" asp-route-id="Contact"> Contact</a></li>
             <p style="text-align:right; padding: 0px 0px;">searchHEARTshopping-cart</p>
 
         </ul>
